@@ -1,4 +1,5 @@
-# Instance Variables
+#
+Instance Variables
 
 ## Objectives
 1. Define instance variables.
